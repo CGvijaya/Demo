@@ -3,4 +3,4 @@ Hi
 
 
 This commit is from the bash
-New line is added
+This is from UI
